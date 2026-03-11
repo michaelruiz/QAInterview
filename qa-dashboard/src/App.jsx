@@ -366,7 +366,7 @@ export default function App() {
       <div style={{ width: "185px", flexShrink: 0, background: "#08081a", borderRight: "1px solid #12122a", display: "flex", flexDirection: "column", position: "sticky", top: 0, height: "100vh" }}>
         <div style={{ padding: "18px 15px 14px", borderBottom: "1px solid #12122a" }}>
           <div style={{ fontSize: "13px", fontWeight: 800, color: "#f0f0ff", letterSpacing: "-0.3px" }}>QA Interview Prep</div>
-          <div style={{ fontSize: "9px", color: "#252545", fontFamily: "monospace", letterSpacing: "1px", marginTop: "3px" }}>TEST AUTOMATION</div>
+          <div style={{ fontSize: "9px", color: "#252545", fontFamily: "monospace", letterSpacing: "1px", marginTop: "3px" }}>By Michael Ruiz</div>
         </div>
         <nav style={{ padding: "12px 8px", flex: 1 }}>
           <div style={{ fontSize: "9px", color: "#252545", fontFamily: "monospace", letterSpacing: "1.5px", padding: "3px 7px 8px" }}>FRAMEWORKS</div>
